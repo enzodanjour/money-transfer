@@ -1,12 +1,16 @@
 # Money Transfer Project
 
+
+This project is focused on PR to Hacktoberfest 2020.
+=======
 This project is focused in Pull Request (PR) to HacktoberFest 2020.
 
 ## Project Description
 This project shows you the code for a successful money transfer.
 
+
 ## Getting Started
-for more info click in the link below.
+For more information, click the link below.
 https://hacktoberfest.digitalocean.com/.
 
 ## FAQ 
